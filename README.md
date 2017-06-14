@@ -2,7 +2,11 @@
 
 A simple and modular navigation bar built using ReactJS and Bootstrap4
 
-## Using
+
+## [Demo](https://sepler.github.io/react_navbar_example/)
+
+
+## Usage
 Edit the const PAGES variable in App.js Content Class
 ```javascript
 const PAGES = [

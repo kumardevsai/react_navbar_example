@@ -4,11 +4,11 @@ A simple and modular navigation bar built using ReactJS and Bootstrap4
 
 ## Using
 Edit the const PAGES variable in App.js Content Class
-```
+```javascript
 const PAGES = [
       {
-        name: 'p0', // Unique key value
-        text: 'Example Page 0', // Text to be displayed on link
+        name: 'p0',                 // Unique key value
+        text: 'Example Page 0',     // Text to be displayed on link
         component: <ExamplePage0 /> // Component to load in content div
       },
       {
